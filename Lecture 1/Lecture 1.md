@@ -26,9 +26,9 @@ Introduction:
     
     failure probability($\delta$)
     
-    $$
+    $
     m \ge \frac 1 \epsilon(ln |H| + ln (\frac 1 \delta))
-    $$
+    $
     
 - ML in CS:
     
